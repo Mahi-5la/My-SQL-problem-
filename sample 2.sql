@@ -1,3 +1,4 @@
+\\ Coustomer problem
 USE Sample1;
 CREATE TABLE CUSTOMER(
 CUSTOMER_id INT ,
